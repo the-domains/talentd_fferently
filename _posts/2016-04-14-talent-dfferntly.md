@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-14T23:35:56.054Z'
-dateModified: '2016-04-14T23:35:42.707Z'
+datePublished: '2016-04-14T23:38:21.221Z'
+dateModified: '2016-04-14T23:36:06.257Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-14-talent-dfferntly.md
