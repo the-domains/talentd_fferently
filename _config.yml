@@ -1,7 +1,7 @@
 name: Talent D.fferenTly
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.75241
+layout_spectrum: 0.24952
+typography_spectrum: 0.75626
 title: BOT - Powered to automate HR and Talent management tasks
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.5
+    - '#000000'
+    - '#6a6b6f'
+    - '#484b50'
+    - '#2d2d2d'
+    - '#689bc5'
+  brandStrength: 1
   lightness: 0
-  saturation: 0.625
+  saturation: 0.75
   rhythmicContrast: 0.5
 purpose: []
