@@ -1,18 +1,24 @@
 ---
-description: 'can you find a time for us to meet next week?| Clara is your partner in doing great work — a virtual employee that schedules your meetings.  Add email to get st'
+description: 'can you find a time for us to meet next week?| Clara is your partner in doing great work — a virtual employee that schedules your meetings.  Add email to get started'
+isBasedOnUrl: 'https://claralabs.com/'
 author: []
-datePublished: '2016-04-15T02:02:59.648Z'
+datePublished: '2016-04-15T02:06:11.561Z'
 publisher:
-  domain: claralabs.com
   name: claralabs.com
-dateModified: '2016-04-15T01:41:16.626Z'
+  domain: claralabs.com
+  url: null
+  favicon: null
+dateModified: '2016-04-15T02:03:53.435Z'
 title: ''
 sourcePath: _posts/2016-04-15-can-you-find-a-time-for-us-to-meet-next-weekor-clara-is-your.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: can-you-find-a-time-for-us-to-meet-next-weekor-clara-is-your/index.html
+inLanguage: null
+starred: true
+keywords: []
+authors: []
 _context: 'http://schema.org'
 _type: Article
 
