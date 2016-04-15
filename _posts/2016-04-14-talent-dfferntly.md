@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-14T23:50:05.244Z'
-dateModified: '2016-04-14T23:49:41.077Z'
+datePublished: '2016-04-15T00:00:16.260Z'
+dateModified: '2016-04-14T23:50:15.709Z'
 title: "\_Meet Tanil!"
 author: []
 sourcePath: _posts/2016-04-14-talent-dfferntly.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/566a5bae-2c98-4f08-a983-d5bd9b959d32.jpg)
+![BANNER IMAGE](https://the-grid-user-content.s3-us-west-2.amazonaws.com/566a5bae-2c98-4f08-a983-d5bd9b959d32.jpg)
 
 # Meet Tanil!
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d66f6af98c3335d4b77f3fc5b165cda265fd0f5.png)
