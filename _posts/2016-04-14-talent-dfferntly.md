@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-15T00:00:16.260Z'
-dateModified: '2016-04-14T23:50:15.709Z'
+datePublished: '2016-04-15T00:06:58.428Z'
+dateModified: '2016-04-15T00:06:31.771Z'
 title: "\_Meet Tanil!"
 author: []
 sourcePath: _posts/2016-04-14-talent-dfferntly.md
