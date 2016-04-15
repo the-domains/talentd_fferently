@@ -4,7 +4,7 @@
         <description><![CDATA[BOT - Powered to automate HR and Talent management tasks]]></description>
         <link>https://thegrid.ai/talentd_fferently/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 02:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 02:09:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/talentd_fferently/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://claralabs.com/</link>
             <guid isPermaLink="false">53bfdf2c-e484-4230-a311-969772c1fc7d</guid>
             <pubDate>Fri, 15 Apr 2016 01:59:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://claralabs.com/static/img/culture/2.14b9aff87f9f65c2.jpg">]]></description>
+            <link>https://thegrid.ai/talentd_fferently/dc5b56c2-c6e4-49d3-81c9-c8b3cad8d21e/index.html</link>
+            <guid isPermaLink="false">dc5b56c2-c6e4-49d3-81c9-c8b3cad8d21e</guid>
+            <pubDate>Fri, 15 Apr 2016 02:09:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
