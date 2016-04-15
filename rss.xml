@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[BOT - Powered to automate HR and Talent management tasks]]></title>
         <description><![CDATA[BOT - Powered to automate HR and Talent management tasks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/talentd_fferently/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 01:46:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 01:59:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/talentd_fferently/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Clara]]></title>
+            <description><![CDATA[<article><h1>Clara</h1><p>Clara is your partner in doing great work - a virtual employee that schedules your meetings.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7922e20-4c6c-4ea6-baf9-0d7583bc83ec.jpg"></article>]]></description>
+            <link>https://claralabs.com/</link>
+            <guid isPermaLink="false">53bfdf2c-e484-4230-a311-969772c1fc7d</guid>
+            <pubDate>Fri, 15 Apr 2016 01:59:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7dca4c2-ab25-4359-92ef-1dcabbf84024.jpg" alt="" title="" />]]></description>
-            <link>undefined6953850c-768e-4868-be3d-ced8202ae895/index.html</link>
+            <link>https://thegrid.ai/talentd_fferently/6953850c-768e-4868-be3d-ced8202ae895/index.html</link>
             <guid isPermaLink="false">6953850c-768e-4868-be3d-ced8202ae895</guid>
             <pubDate>Fri, 15 Apr 2016 01:45:21 GMT</pubDate>
         </item>
